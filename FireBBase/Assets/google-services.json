@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881481535486",
+    "project_id": "runningskater-30396",
+    "storage_bucket": "runningskater-30396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881481535486:android:e692e227cf0c600d3bfaaf",
+        "android_client_info": {
+          "package_name": "com.google.runningskater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881481535486-ct4irrvs86v4btppbevq2d2gbdilgkhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBsF8_H9QIrSSGDFyQ-5rew61tfMAV5Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881481535486-ct4irrvs86v4btppbevq2d2gbdilgkhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
